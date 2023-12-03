@@ -33599,7 +33599,11 @@
     "badge_name_ACH_snowBoardTime18": "Level XVIII snowboardkampioen.",
     "badge_name_ACH_snowBoardTime19": "Level XIX snowboardkampioen.",
     "badge_name_ACH_snowBoardTime20": "Level XX snowboardkampioen.",
-    "badge_desc_ACH_skidBuild": "Mijn skiheuvel heeft %limit% skiperkjes. Joepie!",
+    "badge_desc_ACH_skidBuild1": "Mijn skiheuvel heeft %limit% skiperkjes. Joepie!",
+    "badge_desc_ACH_skidBuild2": "Mijn skiheuvel heeft %limit% skiperkjes. Joepie!",
+    "badge_desc_ACH_skidBuild3": "Mijn skiheuvel heeft %limit% skiperkjes. Joepie!",
+    "badge_desc_ACH_skidBuild4": "Mijn skiheuvel heeft %limit% skiperkjes. Joepie!",
+    "badge_desc_ACH_skidBuild5": "Mijn skiheuvel heeft %limit% skiperkjes. Joepie!",
     "badge_name_ACH_skiBuild": "Koning van de heuvel %roman%",
 
     "hotel.view.header.1": "Header text 1",
