@@ -52,5 +52,9 @@
     "generic.next": "Volgende",
     "infostand.link.effects": "Effecten",
     "infostand.show.handitems": "Handitems",
-    "infostand.show.enables": "Enables"
+    "infostand.show.enables": "Enables",
+    "infostand.link.commands": "Commands",
+    "commands.kus": "Kus",
+    "commands.hug": "Knuffel",
+    "commands.slime": "Slijm"
 }
