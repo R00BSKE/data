@@ -56,5 +56,7 @@
     "infostand.link.commands": "Commands",
     "commands.kus": "Kus",
     "commands.hug": "Knuffel",
-    "commands.slime": "Slijm"
+    "commands.slime": "Slijm",
+    "memenu.settings.other.block.friend.requests": "Zet vriendenverzoeken uit",
+    "memenu.settings.other.block.following":  "Zet volgen uit"
 }
