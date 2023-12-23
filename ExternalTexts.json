@@ -14511,7 +14511,7 @@
     "extendedprofile.friendrequestsent": "Verzoek verzonden",
     "extendedprofile.friends.count": "<b>Vrienden:</b> %count%",
     "extendedprofile.friends": "Vrienden:",
-    "extendedprofile.groups.count": "<b>Groepen:</b> %count%",
+    "extendedprofile.groups.count": "Groepen:",
     "extendedprofile.groupteaser": "Rainy Groepen komen er aan...",
     "extendedprofile.last.login": "<b>Laatst online:</b> %lastlogin%",
     "extendedprofile.lastaccess": "Laatste keer ingelogd:",
