@@ -33388,7 +33388,7 @@
     "wiredfurni.params.setpoints": "Stel puntenaantal in: %points% punten",
     "wiredfurni.params.setscore2": "Team moet scoren:",
     "wiredfurni.params.setscore": "Stel score in: %points% punten",
-    "wiredfurni.params.setshorttime": "Stel interval in: %ms% milliseconden",
+    "wiredfurni.params.setshorttime": "Stel interval in: %time% milliseconden",
     "wiredfurni.params.settime2": "Tijd instellen:",
     "wiredfurni.params.settime": "Stel tijd in: %seconds% seconden",
     "wiredfurni.params.settimesingame": "Hoe vaak per spel: %times%",
