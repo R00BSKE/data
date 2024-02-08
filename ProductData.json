@@ -12,6 +12,351 @@
         "description": ""
       },
       {
+        "code": "bc_ramp_10",
+        "name": "Ramp Block 10",
+        "description": "bc_ramp_10 desc"
+      },
+      {
+        "code": "bc_ramp_11",
+        "name": "Ramp Block 11",
+        "description": "bc_ramp_11 desc"
+      },
+      {
+        "code": "bc_ramp_12",
+        "name": "Ramp Block 12",
+        "description": "bc_ramp_12 desc"
+      },
+      {
+        "code": "bc_ramp_13",
+        "name": "Ramp Block 13",
+        "description": "bc_ramp_13 desc"
+      },
+      {
+        "code": "bc_ramp_14",
+        "name": "Ramp Block 14",
+        "description": "bc_ramp_14 desc"
+      },
+      {
+        "code": "bc_ramp_15",
+        "name": "Ramp Block 15",
+        "description": "bc_ramp_15 desc"
+      },
+      {
+        "code": "bc_ramp_16",
+        "name": "Ramp Block 16",
+        "description": "bc_ramp_16 desc"
+      },
+      {
+        "code": "bc_ramp_17",
+        "name": "Ramp Block 17",
+        "description": "bc_ramp_17 desc"
+      },
+      {
+        "code": "bc_ramp_18",
+        "name": "Ramp Block 18",
+        "description": "bc_ramp_18 desc"
+      },
+      {
+        "code": "bc_ramp_19",
+        "name": "Ramp Block 19",
+        "description": "bc_ramp_19 desc"
+      },
+      {
+        "code": "bc_ramp_1",
+        "name": "Helling Blok",
+        "description": "bc_ramp_1 desc"
+      },
+      {
+        "code": "bc_ramp_20",
+        "name": "Ramp Block 20",
+        "description": "bc_ramp_20 desc"
+      },
+      {
+        "code": "bc_ramp_21",
+        "name": "Ramp Block 21",
+        "description": "bc_ramp_21 desc"
+      },
+      {
+        "code": "bc_ramp_22",
+        "name": "Ramp Block 22",
+        "description": "bc_ramp_22 desc"
+      },
+      {
+        "code": "bc_ramp_23",
+        "name": "Ramp Block 23",
+        "description": "bc_ramp_23 desc"
+      },
+      {
+        "code": "bc_ramp_24",
+        "name": "Ramp Block 24",
+        "description": "bc_ramp_24 desc"
+      },
+      {
+        "code": "bc_ramp_25",
+        "name": "Ramp Block 25",
+        "description": "bc_ramp_25 desc"
+      },
+      {
+        "code": "bc_ramp_26",
+        "name": "Ramp Block 26",
+        "description": "bc_ramp_26 desc"
+      },
+      {
+        "code": "bc_ramp_27",
+        "name": "Ramp Block 27",
+        "description": "bc_ramp_27 desc"
+      },
+      {
+        "code": "bc_ramp_28",
+        "name": "Ramp Block 28",
+        "description": "bc_ramp_28 desc"
+      },
+      {
+        "code": "bc_ramp_29",
+        "name": "Ramp Block 29",
+        "description": "bc_ramp_29 desc"
+      },
+      {
+        "code": "bc_ramp_2",
+        "name": "Ramp Block 2",
+        "description": "bc_ramp_2 desc"
+      },
+      {
+        "code": "bc_ramp_30",
+        "name": "Ramp Block 30",
+        "description": "bc_ramp_30 desc"
+      },
+      {
+        "code": "bc_ramp_31",
+        "name": "Ramp Block 31",
+        "description": "bc_ramp_31 desc"
+      },
+      {
+        "code": "bc_ramp_32",
+        "name": "Ramp Block 32",
+        "description": "bc_ramp_32 desc"
+      },
+      {
+        "code": "bc_ramp_33",
+        "name": "Ramp Block 33",
+        "description": "bc_ramp_33 desc"
+      },
+      {
+        "code": "bc_ramp_34",
+        "name": "Ramp Block 34",
+        "description": "bc_ramp_34 desc"
+      },
+      {
+        "code": "bc_ramp_35",
+        "name": "Ramp Block 35",
+        "description": "bc_ramp_35 desc"
+      },
+      {
+        "code": "bc_ramp_36",
+        "name": "Ramp Block 36",
+        "description": "bc_ramp_36 desc"
+      },
+      {
+        "code": "bc_ramp_37",
+        "name": "Ramp Block 37",
+        "description": "bc_ramp_37 desc"
+      },
+      {
+        "code": "bc_ramp_38",
+        "name": "Ramp Block 38",
+        "description": "bc_ramp_38 desc"
+      },
+      {
+        "code": "bc_ramp_39",
+        "name": "Ramp Block 39",
+        "description": "bc_ramp_39 desc"
+      },
+      {
+        "code": "bc_ramp_3",
+        "name": "Ramp Block 3",
+        "description": "bc_ramp_3 desc"
+      },
+      {
+        "code": "bc_ramp_40",
+        "name": "Ramp Block 40",
+        "description": "bc_ramp_40 desc"
+      },
+      {
+        "code": "bc_ramp_41",
+        "name": "Ramp Block 41",
+        "description": "bc_ramp_41 desc"
+      },
+      {
+        "code": "bc_ramp_42",
+        "name": "Ramp Block 42",
+        "description": "bc_ramp_42 desc"
+      },
+      {
+        "code": "bc_ramp_43",
+        "name": "Ramp Block 43",
+        "description": "bc_ramp_43 desc"
+      },
+      {
+        "code": "bc_ramp_44",
+        "name": "Ramp Block 44",
+        "description": "bc_ramp_44 desc"
+      },
+      {
+        "code": "bc_ramp_45",
+        "name": "Ramp Block 45",
+        "description": "bc_ramp_45 desc"
+      },
+      {
+        "code": "bc_ramp_46",
+        "name": "Ramp Block 46",
+        "description": "bc_ramp_46 desc"
+      },
+      {
+        "code": "bc_ramp_47",
+        "name": "Ramp Block 47",
+        "description": "bc_ramp_47 desc"
+      },
+      {
+        "code": "bc_ramp_48",
+        "name": "Ramp Block 48",
+        "description": "bc_ramp_48 desc"
+      },
+      {
+        "code": "bc_ramp_49",
+        "name": "Ramp Block 49",
+        "description": "bc_ramp_49 desc"
+      },
+      {
+        "code": "bc_ramp_4",
+        "name": "Ramp Block 4",
+        "description": "bc_ramp_4 desc"
+      },
+      {
+        "code": "bc_ramp_50",
+        "name": "Ramp Block 50",
+        "description": "bc_ramp_50 desc"
+      },
+      {
+        "code": "bc_ramp_51",
+        "name": "Ramp Block 51",
+        "description": "bc_ramp_51 desc"
+      },
+      {
+        "code": "bc_ramp_52",
+        "name": "Ramp Block 52",
+        "description": "bc_ramp_52 desc"
+      },
+      {
+        "code": "bc_ramp_53",
+        "name": "Ramp Block 53",
+        "description": "bc_ramp_53 desc"
+      },
+      {
+        "code": "bc_ramp_54",
+        "name": "Ramp Block 54",
+        "description": "bc_ramp_54 desc"
+      },
+      {
+        "code": "bc_ramp_55",
+        "name": "Ramp Block 55",
+        "description": "bc_ramp_55 desc"
+      },
+      {
+        "code": "bc_ramp_56",
+        "name": "Ramp Block 56",
+        "description": "bc_ramp_56 desc"
+      },
+      {
+        "code": "bc_ramp_57",
+        "name": "Ramp Block 57",
+        "description": "bc_ramp_57 desc"
+      },
+      {
+        "code": "bc_ramp_58",
+        "name": "Ramp Block 58",
+        "description": "bc_ramp_58 desc"
+      },
+      {
+        "code": "bc_ramp_59",
+        "name": "Ramp Block 59",
+        "description": "bc_ramp_59 desc"
+      },
+      {
+        "code": "bc_ramp_5",
+        "name": "Ramp Block 5",
+        "description": "bc_ramp_5 desc"
+      },
+      {
+        "code": "bc_ramp_60",
+        "name": "Ramp Block 60",
+        "description": "bc_ramp_60 desc"
+      },
+      {
+        "code": "bc_ramp_61",
+        "name": "Ramp Block 61",
+        "description": "bc_ramp_61 desc"
+      },
+      {
+        "code": "bc_ramp_62",
+        "name": "Ramp Block 62",
+        "description": "bc_ramp_62 desc"
+      },
+      {
+        "code": "bc_ramp_63",
+        "name": "Ramp Block 63",
+        "description": "bc_ramp_63 desc"
+      },
+      {
+        "code": "bc_ramp_64",
+        "name": "Ramp Block 64",
+        "description": "bc_ramp_64 desc"
+      },
+      {
+        "code": "bc_ramp_65",
+        "name": "Ramp Block 65",
+        "description": "bc_ramp_65 desc"
+      },
+      {
+        "code": "bc_ramp_66",
+        "name": "Ramp Block 66",
+        "description": "bc_ramp_66 desc"
+      },
+      {
+        "code": "bc_ramp_67",
+        "name": "Ramp Block 67",
+        "description": "bc_ramp_67 desc"
+      },
+      {
+        "code": "bc_ramp_68",
+        "name": "Ramp Block 68",
+        "description": "bc_ramp_68 desc"
+      },
+      {
+        "code": "bc_ramp_69",
+        "name": "Ramp Block 69",
+        "description": "bc_ramp_69 desc"
+      },
+      {
+        "code": "bc_ramp_6",
+        "name": "Ramp Block 6",
+        "description": "bc_ramp_6 desc"
+      },
+      {
+        "code": "bc_ramp_7",
+        "name": "Ramp Block 7",
+        "description": "bc_ramp_7 desc"
+      },
+      {
+        "code": "bc_ramp_8",
+        "name": "Ramp Block 8",
+        "description": "bc_ramp_8 desc"
+      },
+      {
+        "code": "bc_ramp_9",
+        "name": "Ramp Block 9",
+        "description": "bc_ramp_9 desc"
+      },
+      {
         "code": "bc_block_small_10",
         "name": "Kleine Blok 10",
         "description": "bc_block_small_10 desc"
