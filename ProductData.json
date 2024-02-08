@@ -12,6 +12,351 @@
         "description": ""
       },
       {
+        "code": "bc_panel_10",
+        "name": "Paneel Blok 10",
+        "description": "bc_panel_10 desc"
+      },
+      {
+        "code": "bc_panel_11",
+        "name": "Paneel Blok 11",
+        "description": "bc_panel_11 desc"
+      },
+      {
+        "code": "bc_panel_12",
+        "name": "Paneel Blok 12",
+        "description": "bc_panel_12 desc"
+      },
+      {
+        "code": "bc_panel_13",
+        "name": "Paneel Blok 13",
+        "description": "bc_panel_13 desc"
+      },
+      {
+        "code": "bc_panel_14",
+        "name": "Paneel Blok 14",
+        "description": "bc_panel_14 desc"
+      },
+      {
+        "code": "bc_panel_15",
+        "name": "Paneel Blok 15",
+        "description": "bc_panel_15 desc"
+      },
+      {
+        "code": "bc_panel_16",
+        "name": "Paneel Blok 16",
+        "description": "bc_panel_16 desc"
+      },
+      {
+        "code": "bc_panel_17",
+        "name": "Paneel Blok 17",
+        "description": "bc_panel_17 desc"
+      },
+      {
+        "code": "bc_panel_18",
+        "name": "Paneel Blok 18",
+        "description": "bc_panel_18 desc"
+      },
+      {
+        "code": "bc_panel_19",
+        "name": "Paneel Blok 19",
+        "description": "bc_panel_19 desc"
+      },
+      {
+        "code": "bc_panel_1",
+        "name": "Paneel Blok",
+        "description": "bc_panel_1 desc"
+      },
+      {
+        "code": "bc_panel_20",
+        "name": "Paneel Blok 20",
+        "description": "bc_panel_20 desc"
+      },
+      {
+        "code": "bc_panel_21",
+        "name": "Paneel Blok 21",
+        "description": "bc_panel_21 desc"
+      },
+      {
+        "code": "bc_panel_22",
+        "name": "Paneel Blok 22",
+        "description": "bc_panel_22 desc"
+      },
+      {
+        "code": "bc_panel_23",
+        "name": "Paneel Blok 23",
+        "description": "bc_panel_23 desc"
+      },
+      {
+        "code": "bc_panel_24",
+        "name": "Paneel Blok 24",
+        "description": "bc_panel_24 desc"
+      },
+      {
+        "code": "bc_panel_25",
+        "name": "Paneel Blok 25",
+        "description": "bc_panel_25 desc"
+      },
+      {
+        "code": "bc_panel_26",
+        "name": "Paneel Blok 26",
+        "description": "bc_panel_26 desc"
+      },
+      {
+        "code": "bc_panel_27",
+        "name": "Paneel Blok 27",
+        "description": "bc_panel_27 desc"
+      },
+      {
+        "code": "bc_panel_28",
+        "name": "Paneel Blok 28",
+        "description": "bc_panel_28 desc"
+      },
+      {
+        "code": "bc_panel_29",
+        "name": "Paneel Blok 29",
+        "description": "bc_panel_29 desc"
+      },
+      {
+        "code": "bc_panel_2",
+        "name": "Paneel Blok 2",
+        "description": "bc_panel_2 desc"
+      },
+      {
+        "code": "bc_panel_30",
+        "name": "Paneel Blok 30",
+        "description": "bc_panel_30 desc"
+      },
+      {
+        "code": "bc_panel_31",
+        "name": "Paneel Blok 31",
+        "description": "bc_panel_31 desc"
+      },
+      {
+        "code": "bc_panel_32",
+        "name": "Paneel Blok 32",
+        "description": "bc_panel_32 desc"
+      },
+      {
+        "code": "bc_panel_33",
+        "name": "Paneel Blok 33",
+        "description": "bc_panel_33 desc"
+      },
+      {
+        "code": "bc_panel_34",
+        "name": "Paneel Blok 34",
+        "description": "bc_panel_34 desc"
+      },
+      {
+        "code": "bc_panel_35",
+        "name": "Paneel Blok 35",
+        "description": "bc_panel_35 desc"
+      },
+      {
+        "code": "bc_panel_36",
+        "name": "Paneel Blok 36",
+        "description": "bc_panel_36 desc"
+      },
+      {
+        "code": "bc_panel_37",
+        "name": "Paneel Blok 37",
+        "description": "bc_panel_37 desc"
+      },
+      {
+        "code": "bc_panel_38",
+        "name": "Paneel Blok 38",
+        "description": "bc_panel_38 desc"
+      },
+      {
+        "code": "bc_panel_39",
+        "name": "Paneel Blok 39",
+        "description": "bc_panel_39 desc"
+      },
+      {
+        "code": "bc_panel_3",
+        "name": "Paneel Blok 3",
+        "description": "bc_panel_3 desc"
+      },
+      {
+        "code": "bc_panel_40",
+        "name": "Paneel Blok 40",
+        "description": "bc_panel_40 desc"
+      },
+      {
+        "code": "bc_panel_41",
+        "name": "Paneel Blok 41",
+        "description": "bc_panel_41 desc"
+      },
+      {
+        "code": "bc_panel_42",
+        "name": "Paneel Blok 42",
+        "description": "bc_panel_42 desc"
+      },
+      {
+        "code": "bc_panel_43",
+        "name": "Paneel Blok 43",
+        "description": "bc_panel_43 desc"
+      },
+      {
+        "code": "bc_panel_44",
+        "name": "Paneel Blok 44",
+        "description": "bc_panel_44 desc"
+      },
+      {
+        "code": "bc_panel_45",
+        "name": "Paneel Blok 45",
+        "description": "bc_panel_45 desc"
+      },
+      {
+        "code": "bc_panel_46",
+        "name": "Paneel Blok 46",
+        "description": "bc_panel_46 desc"
+      },
+      {
+        "code": "bc_panel_47",
+        "name": "Paneel Blok 47",
+        "description": "bc_panel_47 desc"
+      },
+      {
+        "code": "bc_panel_48",
+        "name": "Paneel Blok 48",
+        "description": "bc_panel_48 desc"
+      },
+      {
+        "code": "bc_panel_49",
+        "name": "Paneel Blok 49",
+        "description": "bc_panel_49 desc"
+      },
+      {
+        "code": "bc_panel_4",
+        "name": "Paneel Blok 4",
+        "description": "bc_panel_4 desc"
+      },
+      {
+        "code": "bc_panel_50",
+        "name": "Paneel Blok 50",
+        "description": "bc_panel_50 desc"
+      },
+      {
+        "code": "bc_panel_51",
+        "name": "Paneel Blok 51",
+        "description": "bc_panel_51 desc"
+      },
+      {
+        "code": "bc_panel_52",
+        "name": "Paneel Blok 52",
+        "description": "bc_panel_52 desc"
+      },
+      {
+        "code": "bc_panel_53",
+        "name": "Paneel Blok 53",
+        "description": "bc_panel_53 desc"
+      },
+      {
+        "code": "bc_panel_54",
+        "name": "Paneel Blok 54",
+        "description": "bc_panel_54 desc"
+      },
+      {
+        "code": "bc_panel_55",
+        "name": "Paneel Blok 55",
+        "description": "bc_panel_55 desc"
+      },
+      {
+        "code": "bc_panel_56",
+        "name": "Paneel Blok 56",
+        "description": "bc_panel_56 desc"
+      },
+      {
+        "code": "bc_panel_57",
+        "name": "Paneel Blok 57",
+        "description": "bc_panel_57 desc"
+      },
+      {
+        "code": "bc_panel_58",
+        "name": "Paneel Blok 58",
+        "description": "bc_panel_58 desc"
+      },
+      {
+        "code": "bc_panel_59",
+        "name": "Paneel Blok 59",
+        "description": "bc_panel_59 desc"
+      },
+      {
+        "code": "bc_panel_5",
+        "name": "Paneel Blok 5",
+        "description": "bc_panel_5 desc"
+      },
+      {
+        "code": "bc_panel_60",
+        "name": "Paneel Blok 60",
+        "description": "bc_panel_60 desc"
+      },
+      {
+        "code": "bc_panel_61",
+        "name": "Paneel Blok 61",
+        "description": "bc_panel_61 desc"
+      },
+      {
+        "code": "bc_panel_62",
+        "name": "Paneel Blok 62",
+        "description": "bc_panel_62 desc"
+      },
+      {
+        "code": "bc_panel_63",
+        "name": "Paneel Blok 63",
+        "description": "bc_panel_63 desc"
+      },
+      {
+        "code": "bc_panel_64",
+        "name": "Paneel Blok 64",
+        "description": "bc_panel_64 desc"
+      },
+      {
+        "code": "bc_panel_65",
+        "name": "Paneel Blok 65",
+        "description": "bc_panel_65 desc"
+      },
+      {
+        "code": "bc_panel_66",
+        "name": "Paneel Blok 66",
+        "description": "bc_panel_66 desc"
+      },
+      {
+        "code": "bc_panel_67",
+        "name": "Paneel Blok 67",
+        "description": "bc_panel_67 desc"
+      },
+      {
+        "code": "bc_panel_68",
+        "name": "Paneel Blok 68",
+        "description": "bc_panel_68 desc"
+      },
+      {
+        "code": "bc_panel_69",
+        "name": "Paneel Blok 69",
+        "description": "bc_panel_69 desc"
+      },
+      {
+        "code": "bc_panel_6",
+        "name": "Paneel Blok 6",
+        "description": "bc_panel_6 desc"
+      },
+      {
+        "code": "bc_panel_7",
+        "name": "Paneel Blok 7",
+        "description": "bc_panel_7 desc"
+      },
+      {
+        "code": "bc_panel_8",
+        "name": "Paneel Blok 8",
+        "description": "bc_panel_8 desc"
+      },
+      {
+        "code": "bc_panel_9",
+        "name": "Paneel Blok 9",
+        "description": "bc_panel_9 desc"
+      },
+      {
         "code": "bc_ramp_10",
         "name": "Ramp Block 10",
         "description": "bc_ramp_10 desc"
