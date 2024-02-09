@@ -60,5 +60,7 @@
     "memenu.settings.other.block.friend.requests": "Zet vriendenverzoeken uit",
     "memenu.settings.other.block.following":  "Zet volgen uit",
     "navigator.doorbell.button.force": "Forceer",
-    "memenu.settings.other.hide.is.typing": "Verberg typindicatie"
+    "memenu.settings.other.hide.is.typing": "Verberg typindicatie",
+    "sticker.alert.cooldown.title": "Awesome overload!",
+    "sticker.alert.cooldown.description": "Ho! Dat gaat wel heel erg snel zeg. We begrijpen je, GIFjes zijn een perfecte vorm van chatten, maar wel met mate. Probeer het zo nog eens."
 }
