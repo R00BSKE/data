@@ -64,5 +64,7 @@
     "sticker.alert.cooldown.title": "Awesome overload!",
     "sticker.alert.cooldown.description": "Ho! Dat gaat wel heel erg snel zeg. We begrijpen je, GIFjes zijn een perfecte vorm van chatten, maar wel met mate. Probeer het zo nog eens.",
     "memenu.settings.other.header.color": "Thema Kleur",
-    "dev.tools.title": "Devtools"
+    "dev.tools.title": "Devtools",
+    "navigator.roomsettings.new_path": "Pathfinder BETA",
+    "commands.title": "Commands"
 }
