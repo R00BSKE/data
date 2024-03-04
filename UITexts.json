@@ -66,5 +66,6 @@
     "memenu.settings.other.header.color": "Thema Kleur",
     "dev.tools.title": "Devtools",
     "navigator.roomsettings.new_path": "Pathfinder BETA",
-    "commands.title": "Commands"
+    "commands.title": "Commands",
+    "room.commands.button.text": "Commands"
 }
