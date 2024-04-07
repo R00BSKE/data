@@ -67,7 +67,7 @@
     "dev.tools.title": "Devtools",
     "navigator.roomsettings.new_path": "Pathfinder BETA",
     "commands.title": "Commands",
-    "room.commands.button.text": "Commands",
     "generic.amount": "Aantal",
-    "profile.images.title": "Profiel Achtergrond"
+    "profile.images.title": "Profiel Achtergrond",
+    "commands.interface.title": "Commands"
 }
