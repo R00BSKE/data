@@ -71,6 +71,6 @@
     "profile.images.title": "Profiel Achtergrond",
     "commands.interface.title": "Commands",
     "shout.requests.send": "Shout insturen",
-    "shout.requests.placeholder": "Vul hier je shout in..",
+    "shout.request.placeholder": "Vul hier je shout in..",
     "shout.requests.title": "Shout insturen"
 }
