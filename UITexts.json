@@ -72,5 +72,6 @@
     "commands.interface.title": "Commands",
     "shout.requests.send": "Shout insturen",
     "shout.request.placeholder": "Vul hier je shout in..",
-    "shout.requests.title": "Shout insturen"
+    "shout.requests.title": "Shout insturen",
+    "shout.requests.sent": "We hebben je shoutje verstuurd."
 }
