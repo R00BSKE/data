@@ -15,6 +15,26 @@
             ]
         },
         {
+            "id": "jacket_U_snowwar4_team1",
+            "revision": 7,
+            "parts": [
+                {
+                    "id": 20000,
+                    "type": "ch"
+                }
+            ]
+        },
+        {
+            "id": "jacket_U_snowwar4_team2",
+            "revision": 7,
+            "parts": [
+                {
+                    "id": 20001,
+                    "type": "ch"
+                }
+            ]
+        },
+        {
             "id": "shirt_F_hipoutfit",
             "revision": 7,
             "parts": [
