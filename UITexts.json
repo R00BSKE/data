@@ -73,5 +73,20 @@
     "shout.requests.send": "Shout insturen",
     "shout.request.placeholder": "Vul hier je shout in..",
     "shout.requests.title": "Shout insturen",
-    "shout.requests.sent": "We hebben je shoutje verstuurd."
+    "shout.requests.sent": "We hebben je shoutje verstuurd.",
+    "gamecenter.snowstorm.description_content": "Flitsende actie en ijskoude skills - aanval is de beste verdediging en als de sneeuwballen eenmaal los gaan, kan maar één team het beste zijn!",
+    "gamecenter.snowstorm.description_title": "Gooi sneeuw of hap sneeuw!",
+    "gamecenter.snowstorm.name": "SNOWSTORM",
+    "gamecenter.battleball.description_content": "Test",
+    "gamecenter.battleball.description_title": "Test",
+    "gamecenter.battleball.name": "Battle Ball",
+    "gamecenter.templerun.description_content": "Test",
+    "gamecenter.templerun.description_title": "Test",
+    "gamecenter.templerun.name": "Temple Run 2",
+    "gamecenter.flappybird.description_content": "Test",
+    "gamecenter.flappybird.description_title": "Test",
+    "gamecenter.flappybird.name": "Flappy Bird",
+    "toolbar.icon.label.battle.pass": "Rainy Pass",
+    "mod.tools.interface.title": "Modtools",
+    "dev.tools.interface.title": "Devtools"
 }
